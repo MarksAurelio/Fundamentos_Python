@@ -17,4 +17,3 @@ while True:
     except:
         print("Desculpe, algo deu errado...")
  
-
